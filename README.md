@@ -10,7 +10,6 @@
 ```md
 To start the site locally, run:
 
-```bash
 npm run dev
 ```
 
