@@ -7,13 +7,12 @@
 - 🎯 **Routing** - Dynamic routes for individual coin pages
 - 💰 **Market Data** - Market cap, volume, and price changes
 
-
-
 ```md
 To start the site locally, run:
 
 ```bash
 npm run dev
+```
 
 🔗 Useful Links
 - [Recharts Documentation](https://recharts.org/)
